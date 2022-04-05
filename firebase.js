@@ -18,7 +18,7 @@ import "firebase/compat/firestore";
 // Your web app's Firebase configuration
 const firebaseConfig = {
   
-  apiKey: "cole aqui sua chave",
+  apiKey: "AIzaSyC5PpsbnndLOEgEuJv0tnPCCBrAHycaX6k",
 
 
   authDomain: "diego-expo.firebaseapp.com",
